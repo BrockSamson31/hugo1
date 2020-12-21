@@ -1,4 +1,4 @@
-baseURL = "http://handshakecoin.org/"
+baseURL = "http://oleum.oleum/"
 languageCode = "en-us"
 title = "My Handshake Website"
 theme = "ananke"
